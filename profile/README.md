@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./github-avatar-1024.png" alt="ResonTech" width="160" />
-
   <h1>ResonTech</h1>
   <p><strong>The ML & AI Operating Ecosystem.</strong></p>
   <p>Run any model on bare GPU. No DevOps, no overhead, no waiting — just submit and get results.</p>
@@ -9,7 +7,6 @@
     <a href="https://reson.tech">reson.tech</a> ·
     <a href="https://beta.reson.tech">platform</a> ·
     <a href="https://reson.tech/docs">docs</a> ·
-    <a href="https://reson.tech/status">status</a>
   </p>
 
 
